@@ -7,7 +7,6 @@ from rest_framework_simplejwt.views import (
     TokenRefreshView,
     TokenVerifyView,)
 
-#farooque branch
 #change #10
 
 urlpatterns = [
