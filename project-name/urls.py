@@ -7,7 +7,7 @@ from rest_framework_simplejwt.views import (
     TokenRefreshView,
     TokenVerifyView,)
 
-#farooque branch
+#farooque branch #pycharm pull
 
 urlpatterns = [
     path('admin/', admin.site.urls),
